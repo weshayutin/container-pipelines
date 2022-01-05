@@ -1,5 +1,7 @@
 # A Sample OpenShift Pipeline for a Nginx Application
 
+test test
+
 This example demonstrates how to implement a full end-to-end Jenkins Pipeline for a static application in OpenShift Container Platform. This sample demonstrates the following capabilities:
 
 * Deploying an integrated Jenkins server inside of OpenShift
